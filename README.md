@@ -1,2 +1,1 @@
-hello world '
-sample text goes here
+this is the first try on my own
